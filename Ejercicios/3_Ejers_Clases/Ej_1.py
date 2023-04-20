@@ -6,7 +6,7 @@ while True:
     except ValueError:
         print ("El valor ingresado no es un numero")
     finally:
-        print("Realize otra operacion.")
+        print("Realize otra operacion")
         
         
             
